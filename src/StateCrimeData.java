@@ -39,6 +39,7 @@ public class StateCrimeData
 
         //Create Scanner
         fileInput = new Scanner(new File(crimeFile));
+
         //Read from file
         try
         {
